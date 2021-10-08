@@ -1,4 +1,4 @@
-# Hey I"m DanDev
+# Hey I'm DanDev
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/gq8HEbXVeZ) 
 ![](https://komarev.com/ghpvc/?username=dandev95&label=Views&color=lightgrey&style=flat)
 
